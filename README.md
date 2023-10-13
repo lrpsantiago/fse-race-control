@@ -1,6 +1,8 @@
 # FSE Race Control Script
 
-FSESS Compatibility: v7.1.0+
+FSESS Compatibility: v11.0.0+
+
+**WITH DYNAMIC WEATHER**
 
 ## SETUP
 - Place the 4 LCDs and name them: "Race Main LCD", "Race Laps LCD", "Race Fastest Laps LCD",  "Race Speedtrap LCD";
