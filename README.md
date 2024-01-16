@@ -13,3 +13,11 @@ FSESS Compatibility: v11.0.0+
 - You can also have a LCD group to display leader's lap count.
 
 You can always have more or less checkpoints, start lights and laps, you just need to set this up on the script variables.
+
+## ARGUMENT LIST
+- FREE   => That's the Free Practice mode (default mode), it will let people to run freely and set lap times;
+- RACE   => After the warmup time the light sequence will start and then start the race (limited by laps);
+- QUALI  => (Work In Progress) It's not working yet, but this would order the racers by their fastest lap, instead of total lap times;
+- FLAG_G => Set the current flag to Green (racers can run freely);
+- FLAG_Y => Set the current flag to Yellow (racers can't overtake and all cars are limited to 45m/s);
+- FLAG_R => Set the current flag to Red (it will force all the cars to brake instantly);
