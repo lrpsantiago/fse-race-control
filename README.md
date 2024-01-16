@@ -10,7 +10,7 @@ FSESS Compatibility: v11.0.0+
 - Place the "Pit Entry Sensor" and the "Pit Exit Sensor";
 - Place the start lights and create a group for each of the countdown: "Start Lights 1", "Start Lights 2", ..., "Start Lights 5";
 - Optionally you can have the green lights in a group called: "Start Lights Go";
-- You can also have a LCD group to display leader's lap count.
+- You can also have a LCD group called "Lap Counter LCDs" to display leader's lap count.
 
 You can always have more or less checkpoints, start lights and laps, you just need to set this up on the script variables.
 
